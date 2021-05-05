@@ -670,7 +670,7 @@ When validating in-app purchase receipts, remember to perform the following chec
 - __Product match:__ That the product ID in the receipt matches your expected product identifier
 - __Freshness:__ That you haven’t seen the same receipt ID before.
 
-## about me
+## About Me
 ### Ramani Hitesh
 #### Software Developer , CEO  Darkswift Infotech
 
